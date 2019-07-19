@@ -1,5 +1,5 @@
 def create_key():
-    print("I'm creating key")
+    print("I'm creating key 1")
 
 print("Please select option")
 print("1. Encrupt key")
